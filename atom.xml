@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://SUN-s-web.github.io</id>
+    <id>https://web-for-text.github.io</id>
     <title>坚持拖堂 语文必胜</title>
-    <updated>2020-05-26T06:28:56.887Z</updated>
+    <updated>2020-05-26T08:34:22.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://SUN-s-web.github.io"/>
-    <link rel="self" href="https://SUN-s-web.github.io/atom.xml"/>
+    <link rel="alternate" href="https://web-for-text.github.io"/>
+    <link rel="self" href="https://web-for-text.github.io/atom.xml"/>
     <subtitle>测试网站，我啸着学习</subtitle>
-    <logo>https://SUN-s-web.github.io/images/avatar.png</logo>
-    <icon>https://SUN-s-web.github.io/favicon.ico</icon>
+    <logo>https://web-for-text.github.io/images/avatar.png</logo>
+    <icon>https://web-for-text.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 坚持拖堂 语文必胜</rights>
 </feed>
